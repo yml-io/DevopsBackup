@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2023-04-25T05:36:47.427Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="HU-9V3sIt3ECEOBQYU5w" version="21.1.8" type="github">
+  <diagram name="第 1 页" id="bj9qYOu5IG26Ew2-aiqN">
+    <mxGraphModel dx="794" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P0MIevv7neyHsCtSl9K2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="1" source="P0MIevv7neyHsCtSl9K2-1" target="P0MIevv7neyHsCtSl9K2-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P0MIevv7neyHsCtSl9K2-1" value="根CA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P0MIevv7neyHsCtSl9K2-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="120" width="340" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="P0MIevv7neyHsCtSl9K2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.622;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;shape=flexArrow;startArrow=block;" parent="1" source="P0MIevv7neyHsCtSl9K2-3" target="P0MIevv7neyHsCtSl9K2-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P0MIevv7neyHsCtSl9K2-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="P0MIevv7neyHsCtSl9K2-3" target="P0MIevv7neyHsCtSl9K2-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P0MIevv7neyHsCtSl9K2-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="P0MIevv7neyHsCtSl9K2-3" target="P0MIevv7neyHsCtSl9K2-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P0MIevv7neyHsCtSl9K2-3" value="中心CA server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="150" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P0MIevv7neyHsCtSl9K2-4" value="LDAP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P0MIevv7neyHsCtSl9K2-5" value="RA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P0MIevv7neyHsCtSl9K2-9" value="二级CA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
